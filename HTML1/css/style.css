@@ -1,4 +1,8 @@
 body {
+    -webkit-background: #F0F8FF;
+    -moz-background: #F0F8FF;
+    -ms-background: #F0F8FF;
+    -o-background: #F0F8FF;
     background: #F0F8FF;
     color: #00008B;
     font-family: Arial, sans-serif;
